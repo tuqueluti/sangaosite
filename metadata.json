@@ -1,0 +1,6 @@
+{
+  "name": "Sangão Redes Esportivas",
+  "description": "Landing Page comercial para Sangão Redes Esportivas, fabricante focada em esportes de areia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
